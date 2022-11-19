@@ -1,0 +1,76 @@
+body.srigin-body{
+ background-color: rgb(185, 154, 14);
+
+}
+
+
+.card.srignin-card{
+padding: 40px 0px 20px;
+background-color: #f4f4f4;
+-webkit-box-shadow: 2px 2px 5px rgba(0,0,0,5);
+}
+
+/* [class*="col-"]{
+    background-color: rgba(4, 18, 32, 0.467);
+    height: 16px;
+    border: 1px solid rgb(190, 28, 104);
+} */
+img.srigin-img{
+    /* padding: 0 2rem 2rem; */
+    margin-left: 34%;
+    border-radius: 5px;
+}
+.form-group{
+ padding: 3px;
+ margin-left: 33%;
+
+}
+button.btn-signin{
+  color:#fff;
+  background-color: #d64829;
+  margin-left: 33%;
+  width: 18%;
+}
+.form-check{
+margin-left: 33%;
+}
+a.create-new-account{
+    margin-left: 33%;
+    font-size: 20px;
+    margin-top: 4px;
+    display: block;
+}
+.st-buttons{
+    margin-left: 23%;
+    margin-top:5px;
+    
+   
+}
+button.btn-outline-primary{
+    color:#fff;
+  background-color: #2935d6;
+}
+button.btn-outline-secondary{
+    color:#fff;
+    background-color: #2935d6;
+}
+button.btn-outline-dark{
+color: #fff;
+background-color: burlywood;
+}
+button.btn-outline-success{
+    color: #fff;
+    background-color: blueviolet;
+}
+button.btn-outline-danger{
+    color: #fff;
+    background-color: aquamarine;
+}
+button.btn-outline-warning{
+    color: #fff;
+    background-color:red; 
+}
+button.btn-outline-info{
+    color: #fff;
+    background-color: brown;
+}
